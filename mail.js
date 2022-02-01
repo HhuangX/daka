@@ -10,9 +10,9 @@ const nodemailer = require('nodemailer')
 
 // 献祭小号
 const config = {
-  user: 'ux34@qq.com', // 邮箱帐号
-  pass: 'ctcpzlmlijctbaaj', // 邮箱授权码
-  from: '"Daka" <ux34@qq.com>' // 发件人 昵称与邮箱
+  user: '2957215080@qq.com', // 邮箱帐号
+  pass: 'cqecemtisqejdejd', // 邮箱授权码
+  from: '"Daka" <2957215080@qq.com>' // 发件人 昵称与邮箱
 }
 
 let transporter = nodemailer.createTransport({
